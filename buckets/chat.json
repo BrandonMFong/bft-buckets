@@ -1,7 +1,19 @@
 {
-  "meta": "https://api.github.com/repos/brandonmfong/chat/releases/latest",
+  "meta": {
+	  "url" : "https://api.github.com/repos/brandonmfong/chat/releases/latest"
+  },
   "download": {
-	"macos" : "https://github.com/brandonmfong/chat/releases/latest/download/chat-macos.dmg",
-	"linux" : "https://github.com/brandonmfong/chat/releases/latest/download/chat-linux.tar.gz"
+	"macos" : {
+		"url" : "https://github.com/brandonmfong/chat/releases/latest/download/chat-macos.dmg",
+		"items" : [
+			"chat"
+		]
+	},
+	"linux" : {
+		"url" : "https://github.com/brandonmfong/chat/releases/latest/download/chat-linux.tar.gz",
+		"items" : [
+			"chat"
+		]
+	}
   }
 }
