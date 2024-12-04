@@ -12,7 +12,7 @@
 	"linux" : {
 		"url" : "https://github.com/brandonmfong/chat/releases/latest/download/chat-linux.tar.gz",
 		"items" : [
-			"chat"
+			"chat/chat"
 		]
 	}
   }
