@@ -1,0 +1,19 @@
+{
+  "meta": {
+	  "url" : "https://api.github.com/repos/brandonmfong/define/releases/latest"
+  },
+  "download": {
+	"macos" : {
+		"url" : "https://github.com/brandonmfong/define/releases/latest/download/define-macos.dmg",
+		"items" : [
+			"define-macos/define"
+		]
+	},
+	"linux" : {
+		"url" : "https://github.com/brandonmfong/define/releases/latest/download/define-linux.tar.gz",
+		"items" : [
+			"define-linux/define"
+		]
+	}
+  }
+}
