@@ -6,13 +6,13 @@
 	"macos" : {
 		"url" : "https://github.com/brandonmfong/chat/releases/latest/download/chat-macos.dmg",
 		"items" : [
-			"chat-macos/chat"
+			"chat"
 		]
 	},
 	"linux" : {
 		"url" : "https://github.com/brandonmfong/chat/releases/latest/download/chat-linux.tar.gz",
 		"items" : [
-			"chat-linux/chat"
+			"chat/chat"
 		]
 	}
   }
