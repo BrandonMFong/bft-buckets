@@ -1,0 +1,19 @@
+{
+  "meta": {
+	  "url" : "https://api.github.com/repos/brandonmfong/check/releases/latest"
+  },
+  "download": {
+	"macos" : {
+		"url" : "https://github.com/brandonmfong/check/releases/latest/download/check-macos.dmg",
+		"items" : [
+			"check-macos/archive"
+		]
+	},
+	"linux" : {
+		"url" : "https://github.com/brandonmfong/check/releases/latest/download/check-linux.tar.gz",
+		"items" : [
+			"check-linux/archive"
+		]
+	}
+  }
+}
