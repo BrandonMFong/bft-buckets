@@ -1,0 +1,19 @@
+{
+  "meta": {
+	  "url" : "https://api.github.com/repos/brandonmfong/getpath/releases/latest"
+  },
+  "download": {
+	"macos" : {
+		"url" : "https://github.com/brandonmfong/getpath/releases/latest/download/getpath-macos.dmg",
+		"items" : [
+			"getpath-macos/getpath"
+		]
+	},
+	"linux" : {
+		"url" : "https://github.com/brandonmfong/getpath/releases/latest/download/getpath-linux.tar.gz",
+		"items" : [
+			"getpath-linux/getpath"
+		]
+	}
+  }
+}
