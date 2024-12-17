@@ -1,0 +1,19 @@
+{
+  "meta": {
+	  "url" : "https://api.github.com/repos/brandonmfong/cpy/releases/latest"
+  },
+  "download": {
+	"macos" : {
+		"url" : "https://github.com/brandonmfong/cpy/releases/latest/download/cpy-macos.dmg",
+		"items" : [
+			"cpy-macos/cpy"
+		]
+	},
+	"linux" : {
+		"url" : "https://github.com/brandonmfong/cpy/releases/latest/download/cpy-linux.tar.gz",
+		"items" : [
+			"cpy-linux/cpy"
+		]
+	}
+  }
+}
