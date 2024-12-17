@@ -1,0 +1,19 @@
+{
+  "meta": {
+	  "url" : "https://api.github.com/repos/brandonmfong/listdir/releases/latest"
+  },
+  "download": {
+	"macos" : {
+		"url" : "https://github.com/brandonmfong/listdir/releases/latest/download/listdir-macos.dmg",
+		"items" : [
+			"listdir-macos/listdir"
+		]
+	},
+	"linux" : {
+		"url" : "https://github.com/brandonmfong/listdir/releases/latest/download/listdir-linux.tar.gz",
+		"items" : [
+			"listdir-linux/listdir"
+		]
+	}
+  }
+}
