@@ -1,0 +1,19 @@
+{
+  "meta": {
+	  "url" : "https://api.github.com/repos/brandonmfong/archiver/releases/latest"
+  },
+  "download": {
+	"macos" : {
+		"url" : "https://github.com/brandonmfong/archiver/releases/latest/download/archiver-macos.dmg",
+		"items" : [
+			"archiver-macos/archive"
+		]
+	},
+	"linux" : {
+		"url" : "https://github.com/brandonmfong/archiver/releases/latest/download/archiver-linux.tar.gz",
+		"items" : [
+			"archiver-linux/archive"
+		]
+	}
+  }
+}
