@@ -1,0 +1,19 @@
+{
+  "meta": {
+	  "url" : "https://api.github.com/repos/brandonmfong/spellcheck/releases/latest"
+  },
+  "download": {
+	"macos" : {
+		"url" : "https://github.com/brandonmfong/spellcheck/releases/latest/download/spellcheck-macos.dmg",
+		"items" : [
+			"spellcheck-macos/spellcheck"
+		]
+	},
+	"linux" : {
+		"url" : "https://github.com/brandonmfong/spellcheck/releases/latest/download/spellcheck-linux.tar.gz",
+		"items" : [
+			"spellcheck-linux/spellcheck"
+		]
+	}
+  }
+}
