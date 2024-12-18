@@ -1,0 +1,19 @@
+{
+  "meta": {
+	  "url" : "https://api.github.com/repos/brandonmfong/mytime/releases/latest"
+  },
+  "download": {
+	"macos" : {
+		"url" : "https://github.com/brandonmfong/mytime/releases/latest/download/mytime-macos.dmg",
+		"items" : [
+			"mytime-macos/mytime"
+		]
+	},
+	"linux" : {
+		"url" : "https://github.com/brandonmfong/mytime/releases/latest/download/mytime-linux.tar.gz",
+		"items" : [
+			"mytime-linux/mytime"
+		]
+	}
+  }
+}
