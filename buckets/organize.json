@@ -1,0 +1,19 @@
+{
+  "meta": {
+	  "url" : "https://api.github.com/repos/brandonmfong/organize/releases/latest"
+  },
+  "download": {
+	"macos" : {
+		"url" : "https://github.com/brandonmfong/organize/releases/latest/download/organize-macos.dmg",
+		"items" : [
+			"organize-macos/organize"
+		]
+	},
+	"linux" : {
+		"url" : "https://github.com/brandonmfong/organize/releases/latest/download/organize-linux.tar.gz",
+		"items" : [
+			"organize-linux/organize"
+		]
+	}
+  }
+}
