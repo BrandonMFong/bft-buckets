@@ -6,7 +6,7 @@
 	"macos" : {
 		"url" : "https://github.com/brandonmfong/chat/releases/latest/download/chat-macos.dmg",
 		"items" : [
-			"chat"
+			"chat/chat"
 		]
 	},
 	"linux" : {
