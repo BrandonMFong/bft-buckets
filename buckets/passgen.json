@@ -1,0 +1,19 @@
+{
+  "meta": {
+	  "url" : "https://api.github.com/repos/brandonmfong/passgen/releases/latest"
+  },
+  "download": {
+	"macos" : {
+		"url" : "https://github.com/brandonmfong/passgen/releases/latest/download/passgen-macos.dmg",
+		"items" : [
+			"passgen-macos/passgen"
+		]
+	},
+	"linux" : {
+		"url" : "https://github.com/brandonmfong/passgen/releases/latest/download/passgen-linux.tar.gz",
+		"items" : [
+			"passgen-linux/passgen"
+		]
+	}
+  }
+}
