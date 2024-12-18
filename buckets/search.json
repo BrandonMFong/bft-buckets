@@ -1,0 +1,19 @@
+{
+  "meta": {
+	  "url" : "https://api.github.com/repos/brandonmfong/search/releases/latest"
+  },
+  "download": {
+	"macos" : {
+		"url" : "https://github.com/brandonmfong/search/releases/latest/download/search-macos.dmg",
+		"items" : [
+			"search-macos/search"
+		]
+	},
+	"linux" : {
+		"url" : "https://github.com/brandonmfong/search/releases/latest/download/search-linux.tar.gz",
+		"items" : [
+			"search-linux/search"
+		]
+	}
+  }
+}
